@@ -1,10 +1,6 @@
-# mix-or-match
+# Mix-or-Match
 Halloween themed card matching game in plain JavaScript.
 
-## :film_projector: DEMO
-<p align="center">
-<img src="./src/assets/memorie.gif" alt="mix-or-match">
-</p>
 
 
 ## :man_technologist: Technology Stack
