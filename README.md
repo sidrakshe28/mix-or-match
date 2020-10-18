@@ -1,9 +1,13 @@
 # Mix-or-Match
 Halloween themed card matching game in plain JavaScript.
 
+## :film_projector: DEMO
+<p align="center">
+<img src="demo.gif" alt="mixormatch">
+</p>
 
 
-## :man_technologist: Technology Stack
+## :woman_technologist: Technology Stack
 ![javascript](https://img.shields.io/badge/language-Javascript-blue)
 ![Html](https://img.shields.io/badge/language-Html-yellow)
 ![CSS](https://img.shields.io/badge/language-css-green)
@@ -31,7 +35,7 @@ Halloween themed card matching game in plain JavaScript.
     npm start
     ```
 
-##  Author
+## :woman_student:  Author
 [![Twitter](https://img.shields.io/badge/follow-%40SidRakshe28-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/SidRakshe28) 
 
 [![LinkedIn](https://img.shields.io/badge/connect-%40siddhika28-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/siddhika28/)
